@@ -1,0 +1,10 @@
+C:\Users\U2\RiderProjects\task7 zadanie9\task7 zadanie9\bin\Debug\task7_zadanie9.exe
+C:\Users\U2\RiderProjects\task7 zadanie9\task7 zadanie9\bin\Debug\task7_zadanie9.pdb
+C:\Users\U2\RiderProjects\task7 zadanie9\task7 zadanie9\obj\Debug\task7 zadanie9.csprojAssemblyReference.cache
+C:\Users\U2\RiderProjects\task7 zadanie9\task7 zadanie9\obj\Debug\task7_zadanie9.exe
+C:\Users\U2\RiderProjects\task7 zadanie9\task7 zadanie9\obj\Debug\task7_zadanie9.pdb
+C:\Users\U2\RiderProjects\Study practice\Zadanie 9 task7\task7 zadanie9\bin\Debug\task7_zadanie9.exe
+C:\Users\U2\RiderProjects\Study practice\Zadanie 9 task7\task7 zadanie9\bin\Debug\task7_zadanie9.pdb
+C:\Users\U2\RiderProjects\Study practice\Zadanie 9 task7\task7 zadanie9\obj\Debug\task7 zadanie9.csprojAssemblyReference.cache
+C:\Users\U2\RiderProjects\Study practice\Zadanie 9 task7\task7 zadanie9\obj\Debug\task7_zadanie9.exe
+C:\Users\U2\RiderProjects\Study practice\Zadanie 9 task7\task7 zadanie9\obj\Debug\task7_zadanie9.pdb

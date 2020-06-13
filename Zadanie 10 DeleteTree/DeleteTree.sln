@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteTree", "DeleteTree\DeleteTree.csproj", "{87D4C01B-05B8-4DF1-A696-7B6F6D62983B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tree", "Tree\Tree.csproj", "{2676980C-FBF7-4B0E-83DA-C50442489E10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87D4C01B-05B8-4DF1-A696-7B6F6D62983B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87D4C01B-05B8-4DF1-A696-7B6F6D62983B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87D4C01B-05B8-4DF1-A696-7B6F6D62983B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87D4C01B-05B8-4DF1-A696-7B6F6D62983B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2676980C-FBF7-4B0E-83DA-C50442489E10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2676980C-FBF7-4B0E-83DA-C50442489E10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2676980C-FBF7-4B0E-83DA-C50442489E10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2676980C-FBF7-4B0E-83DA-C50442489E10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UCM dialog", "UCM dialog\UCM dialog.csproj", "{D4970A82-F500-4CE8-818F-7F73B85D3E6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4970A82-F500-4CE8-818F-7F73B85D3E6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4970A82-F500-4CE8-818F-7F73B85D3E6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4970A82-F500-4CE8-818F-7F73B85D3E6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4970A82-F500-4CE8-818F-7F73B85D3E6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

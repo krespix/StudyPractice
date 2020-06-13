@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\U2\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\U2\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_UCM dialog.-1440155119.00" t="ExcludeRecursive" />
+    <e p="C:\Users\U2\RiderProjects\Study practice\Zadanie 1 UCM dialog" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="UCM dialog" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="UCM dialog.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="UCM dialog.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

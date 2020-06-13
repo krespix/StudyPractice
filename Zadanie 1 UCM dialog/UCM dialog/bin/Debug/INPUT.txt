@@ -1,0 +1,4 @@
+08:59:59: Vasya signed on
+09:00:00: Privet!
+09:00:31: Privet
+09:00:59: Vasya signed off

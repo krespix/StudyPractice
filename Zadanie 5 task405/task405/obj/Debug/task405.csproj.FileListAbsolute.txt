@@ -1,0 +1,10 @@
+C:\Users\U2\RiderProjects\task405\task405\bin\Debug\task405.exe
+C:\Users\U2\RiderProjects\task405\task405\bin\Debug\task405.pdb
+C:\Users\U2\RiderProjects\task405\task405\obj\Debug\task405.csprojAssemblyReference.cache
+C:\Users\U2\RiderProjects\task405\task405\obj\Debug\task405.exe
+C:\Users\U2\RiderProjects\task405\task405\obj\Debug\task405.pdb
+C:\Users\U2\RiderProjects\Study practice\Zadanie 5 task405\task405\bin\Debug\task405.exe
+C:\Users\U2\RiderProjects\Study practice\Zadanie 5 task405\task405\bin\Debug\task405.pdb
+C:\Users\U2\RiderProjects\Study practice\Zadanie 5 task405\task405\obj\Debug\task405.csprojAssemblyReference.cache
+C:\Users\U2\RiderProjects\Study practice\Zadanie 5 task405\task405\obj\Debug\task405.exe
+C:\Users\U2\RiderProjects\Study practice\Zadanie 5 task405\task405\obj\Debug\task405.pdb

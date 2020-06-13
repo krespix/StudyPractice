@@ -1,0 +1,16 @@
+C:\Users\U2\RiderProjects\DeleteTree\DeleteTree\bin\Debug\DeleteTree.exe
+C:\Users\U2\RiderProjects\DeleteTree\DeleteTree\bin\Debug\DeleteTree.pdb
+C:\Users\U2\RiderProjects\DeleteTree\DeleteTree\bin\Debug\Tree.dll
+C:\Users\U2\RiderProjects\DeleteTree\DeleteTree\bin\Debug\Tree.pdb
+C:\Users\U2\RiderProjects\DeleteTree\DeleteTree\obj\Debug\DeleteTree.csprojAssemblyReference.cache
+C:\Users\U2\RiderProjects\DeleteTree\DeleteTree\obj\Debug\DeleteTree.csproj.CopyComplete
+C:\Users\U2\RiderProjects\DeleteTree\DeleteTree\obj\Debug\DeleteTree.exe
+C:\Users\U2\RiderProjects\DeleteTree\DeleteTree\obj\Debug\DeleteTree.pdb
+C:\Users\U2\RiderProjects\Study practice\Zadanie 10 DeleteTree\DeleteTree\bin\Debug\DeleteTree.exe
+C:\Users\U2\RiderProjects\Study practice\Zadanie 10 DeleteTree\DeleteTree\bin\Debug\DeleteTree.pdb
+C:\Users\U2\RiderProjects\Study practice\Zadanie 10 DeleteTree\DeleteTree\bin\Debug\Tree.dll
+C:\Users\U2\RiderProjects\Study practice\Zadanie 10 DeleteTree\DeleteTree\bin\Debug\Tree.pdb
+C:\Users\U2\RiderProjects\Study practice\Zadanie 10 DeleteTree\DeleteTree\obj\Debug\DeleteTree.csprojAssemblyReference.cache
+C:\Users\U2\RiderProjects\Study practice\Zadanie 10 DeleteTree\DeleteTree\obj\Debug\DeleteTree.csproj.CopyComplete
+C:\Users\U2\RiderProjects\Study practice\Zadanie 10 DeleteTree\DeleteTree\obj\Debug\DeleteTree.exe
+C:\Users\U2\RiderProjects\Study practice\Zadanie 10 DeleteTree\DeleteTree\obj\Debug\DeleteTree.pdb

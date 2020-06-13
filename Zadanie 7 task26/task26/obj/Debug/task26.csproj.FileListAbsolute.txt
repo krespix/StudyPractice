@@ -1,0 +1,10 @@
+C:\Users\U2\RiderProjects\task26\task26\bin\Debug\task26.exe
+C:\Users\U2\RiderProjects\task26\task26\bin\Debug\task26.pdb
+C:\Users\U2\RiderProjects\task26\task26\obj\Debug\task26.csprojAssemblyReference.cache
+C:\Users\U2\RiderProjects\task26\task26\obj\Debug\task26.exe
+C:\Users\U2\RiderProjects\task26\task26\obj\Debug\task26.pdb
+C:\Users\U2\RiderProjects\Study practice\Zadanie 7 task26\task26\bin\Debug\task26.exe
+C:\Users\U2\RiderProjects\Study practice\Zadanie 7 task26\task26\bin\Debug\task26.pdb
+C:\Users\U2\RiderProjects\Study practice\Zadanie 7 task26\task26\obj\Debug\task26.csprojAssemblyReference.cache
+C:\Users\U2\RiderProjects\Study practice\Zadanie 7 task26\task26\obj\Debug\task26.exe
+C:\Users\U2\RiderProjects\Study practice\Zadanie 7 task26\task26\obj\Debug\task26.pdb

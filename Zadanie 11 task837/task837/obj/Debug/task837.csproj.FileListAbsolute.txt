@@ -1,0 +1,10 @@
+C:\Users\U2\RiderProjects\task837\task837\bin\Debug\task837.exe
+C:\Users\U2\RiderProjects\task837\task837\bin\Debug\task837.pdb
+C:\Users\U2\RiderProjects\task837\task837\obj\Debug\task837.csprojAssemblyReference.cache
+C:\Users\U2\RiderProjects\task837\task837\obj\Debug\task837.exe
+C:\Users\U2\RiderProjects\task837\task837\obj\Debug\task837.pdb
+C:\Users\U2\RiderProjects\Study practice\Zadanie 11 task837\task837\bin\Debug\task837.exe
+C:\Users\U2\RiderProjects\Study practice\Zadanie 11 task837\task837\bin\Debug\task837.pdb
+C:\Users\U2\RiderProjects\Study practice\Zadanie 11 task837\task837\obj\Debug\task837.csprojAssemblyReference.cache
+C:\Users\U2\RiderProjects\Study practice\Zadanie 11 task837\task837\obj\Debug\task837.exe
+C:\Users\U2\RiderProjects\Study practice\Zadanie 11 task837\task837\obj\Debug\task837.pdb

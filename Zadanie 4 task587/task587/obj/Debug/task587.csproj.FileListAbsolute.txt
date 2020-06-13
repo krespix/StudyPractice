@@ -1,0 +1,10 @@
+C:\Users\U2\RiderProjects\task587\task587\bin\Debug\task587.exe
+C:\Users\U2\RiderProjects\task587\task587\bin\Debug\task587.pdb
+C:\Users\U2\RiderProjects\task587\task587\obj\Debug\task587.csprojAssemblyReference.cache
+C:\Users\U2\RiderProjects\task587\task587\obj\Debug\task587.exe
+C:\Users\U2\RiderProjects\task587\task587\obj\Debug\task587.pdb
+C:\Users\U2\RiderProjects\Study practice\Zadanie 4 task587\task587\bin\Debug\task587.exe
+C:\Users\U2\RiderProjects\Study practice\Zadanie 4 task587\task587\bin\Debug\task587.pdb
+C:\Users\U2\RiderProjects\Study practice\Zadanie 4 task587\task587\obj\Debug\task587.csprojAssemblyReference.cache
+C:\Users\U2\RiderProjects\Study practice\Zadanie 4 task587\task587\obj\Debug\task587.exe
+C:\Users\U2\RiderProjects\Study practice\Zadanie 4 task587\task587\obj\Debug\task587.pdb

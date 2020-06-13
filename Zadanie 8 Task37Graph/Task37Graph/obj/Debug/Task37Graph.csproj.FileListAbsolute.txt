@@ -1,0 +1,10 @@
+C:\Users\U2\RiderProjects\Task37Graph\Task37Graph\bin\Debug\Task37Graph.exe
+C:\Users\U2\RiderProjects\Task37Graph\Task37Graph\bin\Debug\Task37Graph.pdb
+C:\Users\U2\RiderProjects\Task37Graph\Task37Graph\obj\Debug\Task37Graph.csprojAssemblyReference.cache
+C:\Users\U2\RiderProjects\Task37Graph\Task37Graph\obj\Debug\Task37Graph.exe
+C:\Users\U2\RiderProjects\Task37Graph\Task37Graph\obj\Debug\Task37Graph.pdb
+C:\Users\U2\RiderProjects\Study practice\Zadanie 8 Task37Graph\Task37Graph\bin\Debug\Task37Graph.exe
+C:\Users\U2\RiderProjects\Study practice\Zadanie 8 Task37Graph\Task37Graph\bin\Debug\Task37Graph.pdb
+C:\Users\U2\RiderProjects\Study practice\Zadanie 8 Task37Graph\Task37Graph\obj\Debug\Task37Graph.csprojAssemblyReference.cache
+C:\Users\U2\RiderProjects\Study practice\Zadanie 8 Task37Graph\Task37Graph\obj\Debug\Task37Graph.exe
+C:\Users\U2\RiderProjects\Study practice\Zadanie 8 Task37Graph\Task37Graph\obj\Debug\Task37Graph.pdb

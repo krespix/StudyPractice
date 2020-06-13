@@ -1,0 +1,5 @@
+C:\Users\U2\RiderProjects\UCM dialog\UCM dialog\bin\Debug\UCM_dialog.exe
+C:\Users\U2\RiderProjects\UCM dialog\UCM dialog\bin\Debug\UCM_dialog.pdb
+C:\Users\U2\RiderProjects\UCM dialog\UCM dialog\obj\Debug\UCM dialog.csprojAssemblyReference.cache
+C:\Users\U2\RiderProjects\UCM dialog\UCM dialog\obj\Debug\UCM_dialog.exe
+C:\Users\U2\RiderProjects\UCM dialog\UCM dialog\obj\Debug\UCM_dialog.pdb

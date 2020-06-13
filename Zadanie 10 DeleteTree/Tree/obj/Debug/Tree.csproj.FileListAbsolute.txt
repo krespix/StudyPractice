@@ -1,0 +1,10 @@
+C:\Users\U2\RiderProjects\DeleteTree\Tree\bin\Debug\Tree.dll
+C:\Users\U2\RiderProjects\DeleteTree\Tree\bin\Debug\Tree.pdb
+C:\Users\U2\RiderProjects\DeleteTree\Tree\obj\Debug\Tree.csprojAssemblyReference.cache
+C:\Users\U2\RiderProjects\DeleteTree\Tree\obj\Debug\Tree.dll
+C:\Users\U2\RiderProjects\DeleteTree\Tree\obj\Debug\Tree.pdb
+C:\Users\U2\RiderProjects\Study practice\Zadanie 10 DeleteTree\Tree\bin\Debug\Tree.dll
+C:\Users\U2\RiderProjects\Study practice\Zadanie 10 DeleteTree\Tree\bin\Debug\Tree.pdb
+C:\Users\U2\RiderProjects\Study practice\Zadanie 10 DeleteTree\Tree\obj\Debug\Tree.csprojAssemblyReference.cache
+C:\Users\U2\RiderProjects\Study practice\Zadanie 10 DeleteTree\Tree\obj\Debug\Tree.dll
+C:\Users\U2\RiderProjects\Study practice\Zadanie 10 DeleteTree\Tree\obj\Debug\Tree.pdb

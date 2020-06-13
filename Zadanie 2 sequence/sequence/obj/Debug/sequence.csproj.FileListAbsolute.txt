@@ -1,0 +1,10 @@
+C:\Users\U2\RiderProjects\sequence\sequence\bin\Debug\sequence.exe
+C:\Users\U2\RiderProjects\sequence\sequence\bin\Debug\sequence.pdb
+C:\Users\U2\RiderProjects\sequence\sequence\obj\Debug\sequence.csprojAssemblyReference.cache
+C:\Users\U2\RiderProjects\sequence\sequence\obj\Debug\sequence.exe
+C:\Users\U2\RiderProjects\sequence\sequence\obj\Debug\sequence.pdb
+C:\Users\U2\RiderProjects\Study practice\Zadanie 2 sequence\sequence\bin\Debug\sequence.exe
+C:\Users\U2\RiderProjects\Study practice\Zadanie 2 sequence\sequence\bin\Debug\sequence.pdb
+C:\Users\U2\RiderProjects\Study practice\Zadanie 2 sequence\sequence\obj\Debug\sequence.csprojAssemblyReference.cache
+C:\Users\U2\RiderProjects\Study practice\Zadanie 2 sequence\sequence\obj\Debug\sequence.exe
+C:\Users\U2\RiderProjects\Study practice\Zadanie 2 sequence\sequence\obj\Debug\sequence.pdb
