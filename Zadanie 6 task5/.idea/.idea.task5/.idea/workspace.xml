@@ -1,12 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f76f97a5-5a71-42e8-b43b-4032647ed3c9" name="Default Changelist" comment="" />
+    <list default="true" id="f76f97a5-5a71-42e8-b43b-4032647ed3c9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Zadanie 9 task7/.idea/.idea.task7 zadanie9/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 1 UCM dialog/.idea/.idea.UCM dialog/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 1 UCM dialog/.idea/.idea.UCM dialog/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 10 DeleteTree/.idea/.idea.DeleteTree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 10 DeleteTree/.idea/.idea.DeleteTree/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 10 DeleteTree/DeleteTree/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 10 DeleteTree/DeleteTree/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 10 DeleteTree/DeleteTree/bin/Debug/DeleteTree.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 10 DeleteTree/DeleteTree/bin/Debug/DeleteTree.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 10 DeleteTree/DeleteTree/bin/Debug/DeleteTree.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 10 DeleteTree/DeleteTree/bin/Debug/DeleteTree.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 10 DeleteTree/DeleteTree/obj/Debug/DeleteTree.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 10 DeleteTree/DeleteTree/obj/Debug/DeleteTree.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 10 DeleteTree/DeleteTree/obj/Debug/DeleteTree.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 10 DeleteTree/DeleteTree/obj/Debug/DeleteTree.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 10 DeleteTree/DeleteTree/obj/Debug/DeleteTree.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 10 DeleteTree/DeleteTree/obj/Debug/DeleteTree.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 11 task837/.idea/.idea.task837/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 11 task837/.idea/.idea.task837/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 11 task837/task837/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 11 task837/task837/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 11 task837/task837/bin/Debug/task837.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 11 task837/task837/bin/Debug/task837.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 11 task837/task837/bin/Debug/task837.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 11 task837/task837/bin/Debug/task837.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 11 task837/task837/obj/Debug/task837.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 11 task837/task837/obj/Debug/task837.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 11 task837/task837/obj/Debug/task837.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 11 task837/task837/obj/Debug/task837.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 12 Bucket n Shell sort/.idea/.idea.Zadanie 12/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 12 Bucket n Shell sort/.idea/.idea.Zadanie 12/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 12 Bucket n Shell sort/Zadanie 12/bin/Debug/Zadanie_12.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 12 Bucket n Shell sort/Zadanie 12/bin/Debug/Zadanie_12.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 12 Bucket n Shell sort/Zadanie 12/bin/Debug/Zadanie_12.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 12 Bucket n Shell sort/Zadanie 12/bin/Debug/Zadanie_12.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 12 Bucket n Shell sort/Zadanie 12/obj/Debug/Zadanie_12.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 12 Bucket n Shell sort/Zadanie 12/obj/Debug/Zadanie_12.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 12 Bucket n Shell sort/Zadanie 12/obj/Debug/Zadanie_12.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 12 Bucket n Shell sort/Zadanie 12/obj/Debug/Zadanie_12.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 2 sequence/.idea/.idea.sequence/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 2 sequence/.idea/.idea.sequence/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 3 task58b/.idea/.idea.task58b/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 3 task58b/.idea/.idea.task58b/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 4 task587/.idea/.idea.task587/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 4 task587/.idea/.idea.task587/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 5 task405/.idea/.idea.task405/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 5 task405/.idea/.idea.task405/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 5 task405/task405/bin/Debug/task405.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 5 task405/task405/bin/Debug/task405.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 5 task405/task405/bin/Debug/task405.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 5 task405/task405/bin/Debug/task405.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 5 task405/task405/obj/Debug/task405.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 5 task405/task405/obj/Debug/task405.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 5 task405/task405/obj/Debug/task405.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 5 task405/task405/obj/Debug/task405.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.task5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.task5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task5/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/task5/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task5/bin/Debug/task5.exe" beforeDir="false" afterPath="$PROJECT_DIR$/task5/bin/Debug/task5.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task5/bin/Debug/task5.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/task5/bin/Debug/task5.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task5/obj/Debug/task5.exe" beforeDir="false" afterPath="$PROJECT_DIR$/task5/obj/Debug/task5.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task5/obj/Debug/task5.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/task5/obj/Debug/task5.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 7 task26/.idea/.idea.task26/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 7 task26/.idea/.idea.task26/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 7 task26/task26/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 7 task26/task26/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 7 task26/task26/bin/Debug/task26.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 7 task26/task26/bin/Debug/task26.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 7 task26/task26/bin/Debug/task26.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 7 task26/task26/bin/Debug/task26.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 7 task26/task26/obj/Debug/task26.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 7 task26/task26/obj/Debug/task26.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 7 task26/task26/obj/Debug/task26.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 7 task26/task26/obj/Debug/task26.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 8 Task37Graph/.idea/.idea.Task37Graph/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 8 Task37Graph/.idea/.idea.Task37Graph/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 8 Task37Graph/Task37Graph/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 8 Task37Graph/Task37Graph/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 8 Task37Graph/Task37Graph/bin/Debug/Task37Graph.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 8 Task37Graph/Task37Graph/bin/Debug/Task37Graph.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 8 Task37Graph/Task37Graph/bin/Debug/Task37Graph.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 8 Task37Graph/Task37Graph/bin/Debug/Task37Graph.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 8 Task37Graph/Task37Graph/obj/Debug/Task37Graph.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 8 Task37Graph/Task37Graph/obj/Debug/Task37Graph.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 8 Task37Graph/Task37Graph/obj/Debug/Task37Graph.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 8 Task37Graph/Task37Graph/obj/Debug/Task37Graph.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 9 task7/.idea/.idea.task7 zadanie9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 9 task7/.idea/.idea.task7 zadanie9/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 9 task7/task7 zadanie9/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 9 task7/task7 zadanie9/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 9 task7/task7 zadanie9/bin/Debug/task7_zadanie9.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 9 task7/task7 zadanie9/bin/Debug/task7_zadanie9.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 9 task7/task7 zadanie9/bin/Debug/task7_zadanie9.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 9 task7/task7 zadanie9/bin/Debug/task7_zadanie9.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 9 task7/task7 zadanie9/obj/Debug/task7_zadanie9.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 9 task7/task7 zadanie9/obj/Debug/task7_zadanie9.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 9 task7/task7 zadanie9/obj/Debug/task7_zadanie9.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 9 task7/task7 zadanie9/obj/Debug/task7_zadanie9.pdb" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/task5/Program.cs" root0="FORCE_HIGHLIGHTING" />
@@ -19,6 +75,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1cjEvKCi12HyCCsYBQMf4nDbA78" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
@@ -75,6 +132,8 @@
       <workItem from="1591033832625" duration="3086000" />
       <workItem from="1591975861222" duration="1333000" />
       <workItem from="1592026670933" duration="72000" />
+      <workItem from="1592120182584" duration="1561000" />
+      <workItem from="1592148286642" duration="232000" />
     </task>
     <servers />
   </component>
@@ -83,6 +142,19 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
   </component>

@@ -6,7 +6,7 @@ namespace task837
 {
     internal class Program
     {
-        public static char[,] matrix = new char[,]
+        public static char[,] Matrix = new char[,]
         {
             {'p', 'r', 'v', 'k', 'a', 'k', 'd', 'e', 'l', 'a', '?'},
             {'p', 'r', 'v', 'k', 'a', 'k', 'd', 'e', 'l', 'a', '?'},
@@ -31,18 +31,20 @@ namespace task837
 
         static void Main(string[] args)
         {
+            int n = InputNumber("Введите размерность матрицы", 2, 1000000);
+            char[,] matrix = readMatrix(n);
             Console.WriteLine("Дана матрица символов 11х11. Прочитать по спирали, начиная с центрального элемента (6, 6), тем самым зашифровав текст, затем расшифровать.");
             Console.WriteLine("Зашифрованный текст:");
             Console.WriteLine(reverseString(convertToStr(matrix)));
             Console.WriteLine("Расшифрованный текст");
-            DisplayArray(convertToMatrix(reverseString(convertToStr(matrix))));
+            DisplayArray(convertToMatrix(reverseString(convertToStr(matrix)), n));
         }
 
         public static string convertToStr(char[,] matrix)
         {
-            int i = 0, j = 11 - 1;
+            int i = 0, j = matrix.GetLength(0) - 1;
 
-            int n = 11;
+            int n = matrix.GetLength(0);
             string result = "";
                 
             while (n != 0)
@@ -69,14 +71,14 @@ namespace task837
             return new string(arr);
         }
         
-        public static char[,] convertToMatrix(string line)
+        public static char[,] convertToMatrix(string line, int rank)
         {
             string str = reverseString(line);
-            char[,] matrix = new char[11,11];
+            char[,] matrix = new char[rank,rank];
             
-            int i = 0, j = 11 - 1;
+            int i = 0, j = rank - 1;
             int counter = 0;
-            int n = 11;
+            int n = rank;
 
             while (n != 0)
             {
@@ -112,5 +114,76 @@ namespace task837
 
             return matrix;
         }
+        
+        public static int InputNumber(string text, int left, int right)
+        {
+            int number = 0;
+            var ok = false;
+            Console.WriteLine(text);
+            do
+            {
+                try
+                {
+                    number = Int32.Parse(Console.ReadLine());
+                    if (number <= right && number >= left)
+                        ok = true;
+                    else
+                    {
+                        Console.WriteLine("Ошибка! Введено число за пределами границ!");
+                    }
+                }
+                catch (FormatException)
+                {
+                    Console.WriteLine("Ошибка! Неверно введено число!");
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine("Ошибка! Некорректный ввод!");
+                }
+            } while (!ok);
+
+            return number;
+        }
+        
+        public static char InputChar(string text)
+        {
+            char number = ' ';
+            var ok = false;
+            Console.WriteLine(text);
+            do
+            {
+                try
+                {
+                    ok = Char.TryParse(Console.ReadLine(), out  number);
+                    
+                }
+                catch (FormatException)
+                {
+                    Console.WriteLine("Ошибка! Неверно введено число!");
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine("Ошибка! Некорректный ввод!");
+                }
+            } while (!ok);
+
+            return number;
+        }
+        
+        public static char[,] readMatrix(int rank)
+        {
+            char[,] matrix = new char[rank, rank];
+            for (int i = 0; i < rank; i++)
+            {
+                Console.WriteLine($"Введите элементы {i+1} строки");
+                for (int j = 0; j < rank; j++)
+                {
+                    matrix[i, j] = InputChar("");
+                }
+            }
+
+            return matrix;
+        }
+        
     }
 }

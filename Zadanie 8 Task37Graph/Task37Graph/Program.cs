@@ -19,15 +19,34 @@ namespace task37Graph
             
             int matrixRank = InputNumber("Введите разрядность матрицы", 2, 10000);
             int[,] matrix = readMatrix(matrixRank);
+            Console.WriteLine(checkMatrix(matrix));
             if (checkMatrix(matrix))
             {
                 DFS dfs = new DFS(matrix);
                 dfs.cyclesSearch();
-                Console.WriteLine("Все циклы:");
-                var distinct = dfs.catalogCycles.Distinct();
-                foreach (var item in distinct)
+                for (int j = 0; j < 3; j++)
                 {
-                    Console.WriteLine(item);
+                    for (int i = 0; i < dfs.catalogCycles.Count; i++)
+                    {
+                        if (dfs.catalogCycles[i].Length == 5)
+                        {
+                            dfs.catalogCycles.RemoveAt(i);
+                        }
+                    }
+                }
+
+                var distinct = dfs.catalogCycles.Distinct();
+                if (distinct.Count() > 0)
+                {
+                    Console.WriteLine("Все циклы:");
+                    foreach (var item in distinct)
+                    {
+                        Console.WriteLine(item);
+                    }
+                }
+                else
+                {
+                    Console.WriteLine("В графе нет циклов");
                 }
             }
             else
@@ -83,24 +102,11 @@ namespace task37Graph
 
         public static bool checkMatrix(int[,] matrix)
         {
-            bool ok = false;
-
             for (int i = 0; i < matrix.GetLength(0); i++)
             {
-                for (int j = 0; j < matrix.GetLength(1); j++)
+                if (matrix[i, i] != 0)
                 {
-                    if (matrix[i, j] == 0 || matrix[i, j] == 1)
-                    {
-                        ok = true;
-                    }
-                }
-            }
-
-            for (int i = 0; i < matrix.GetLength(0); i++)
-            {
-                if (matrix[i, i] == 0)
-                {
-                    ok = true;
+                    return false;
                 }
             }
             
@@ -109,19 +115,14 @@ namespace task37Graph
             {
                 for (int j = 0; j < matrix.GetLength(1); j++)
                 {
-                    if (matrix[i, j] == matrix[j, i])
+                    if (matrix[i, j] != matrix[j, i])
                     {
-                        ok = true;
+                        return false;
                     }
                 }
             }
 
-            if (ok)
-            {
-                return true;
-            }
-            
-            return false;
+            return true;
         }
 
         public static void printMatrix(int[,] matrix)

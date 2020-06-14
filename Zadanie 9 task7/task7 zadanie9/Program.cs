@@ -16,12 +16,13 @@ namespace task7_zadanie9
             do
             {
                 ok = Int32.TryParse(Console.ReadLine(), out n);
-                if (!ok)
+                if (!ok || n < 1)
                 {
                     Console.WriteLine("Ошибка! Введено некорректное значение n. Повторите ввод");
                 }
-            } while (!ok);
+            } while (!ok || n < 1);
             list.Add(n);
+            Console.WriteLine("Текущий список:");
             foreach (var item in list)
             {
                 Console.Write(item + " ");
@@ -37,9 +38,8 @@ namespace task7_zadanie9
                     Console.WriteLine("Ошибка! Введено некорректное значение n. Повторите ввод");
                 }
             } while (!ok);
-            Console.WriteLine();
             list.Remove(n);
-            
+            Console.WriteLine("Текущий список:");
             foreach (var item in list)
             {
                 Console.Write(item + " ");

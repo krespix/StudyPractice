@@ -24,7 +24,7 @@ namespace Zadanie_12
             //
 
             int maxValue = items[0];
-            int minValue = items[0];
+            int minValue = items[0];    
 
             for (int i = 1; i < items.Length; i++)
             {

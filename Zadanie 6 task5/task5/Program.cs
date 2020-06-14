@@ -24,11 +24,11 @@ namespace task5
             do
             {
                 ok = Int32.TryParse(Console.ReadLine(), out n);
-                if (!ok)
+                if (!ok || n <= 3)
                 {
                     Console.WriteLine("Ошибка! Введено некорректное значение n. Повторите ввод");
                 }
-            } while (!ok);
+            } while (!ok || n <= 3);
 
             decimal[] arr = new Decimal[n];
             arr[0] = a1;
@@ -46,7 +46,7 @@ namespace task5
                 {
                     rise = true;
                 }
-                else if (arr[i] <= arr[i + 1])
+                else if (arr[i] == arr[i + 1])
                 {
                     notDown = true;
                     rise = false;
@@ -60,11 +60,11 @@ namespace task5
                 
             }
 
-            if (rise)
+            if (rise && !notDown)
             {
                 Console.WriteLine("Последовательность строго возрастающая");
             }
-            else if (!rise && notDown)
+            else if (notDown)
             {
                 Console.WriteLine("Последовательность неубывающая");
             }
